@@ -1,7 +1,0 @@
-C:\Users\oktay\source\repos\TFIDFScore\TFIDFScore\obj\Debug\TFIDFScore.csproj.AssemblyReference.cache
-C:\Users\oktay\source\repos\TFIDFScore\TFIDFScore\obj\Debug\TFIDFScore.csproj.CoreCompileInputs.cache
-C:\Users\oktay\source\repos\TFIDFScore\TFIDFScore\bin\Debug\TFIDFScore.exe.config
-C:\Users\oktay\source\repos\TFIDFScore\TFIDFScore\bin\Debug\TFIDFScore.exe
-C:\Users\oktay\source\repos\TFIDFScore\TFIDFScore\bin\Debug\TFIDFScore.pdb
-C:\Users\oktay\source\repos\TFIDFScore\TFIDFScore\obj\Debug\TFIDFScore.exe
-C:\Users\oktay\source\repos\TFIDFScore\TFIDFScore\obj\Debug\TFIDFScore.pdb

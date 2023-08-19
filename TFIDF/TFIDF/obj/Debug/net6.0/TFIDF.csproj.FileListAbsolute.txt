@@ -1,0 +1,14 @@
+C:\Users\oktay\source\repos\TFIDF\TFIDF\bin\Debug\net6.0\TFIDF.exe
+C:\Users\oktay\source\repos\TFIDF\TFIDF\bin\Debug\net6.0\TFIDF.deps.json
+C:\Users\oktay\source\repos\TFIDF\TFIDF\bin\Debug\net6.0\TFIDF.runtimeconfig.json
+C:\Users\oktay\source\repos\TFIDF\TFIDF\bin\Debug\net6.0\TFIDF.dll
+C:\Users\oktay\source\repos\TFIDF\TFIDF\bin\Debug\net6.0\TFIDF.pdb
+C:\Users\oktay\source\repos\TFIDF\TFIDF\obj\Debug\net6.0\TFIDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oktay\source\repos\TFIDF\TFIDF\obj\Debug\net6.0\TFIDF.AssemblyInfoInputs.cache
+C:\Users\oktay\source\repos\TFIDF\TFIDF\obj\Debug\net6.0\TFIDF.AssemblyInfo.cs
+C:\Users\oktay\source\repos\TFIDF\TFIDF\obj\Debug\net6.0\TFIDF.csproj.CoreCompileInputs.cache
+C:\Users\oktay\source\repos\TFIDF\TFIDF\obj\Debug\net6.0\TFIDF.dll
+C:\Users\oktay\source\repos\TFIDF\TFIDF\obj\Debug\net6.0\refint\TFIDF.dll
+C:\Users\oktay\source\repos\TFIDF\TFIDF\obj\Debug\net6.0\TFIDF.pdb
+C:\Users\oktay\source\repos\TFIDF\TFIDF\obj\Debug\net6.0\TFIDF.genruntimeconfig.cache
+C:\Users\oktay\source\repos\TFIDF\TFIDF\obj\Debug\net6.0\ref\TFIDF.dll
