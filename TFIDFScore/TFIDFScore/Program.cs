@@ -9,7 +9,7 @@ namespace TFIDFScore
 {
     public class Program
     {
-        static void Main(string[] args)
+        static int Main(string[] args)
         {
             string doc1 = "I'd like an apple";
             string doc2 = "An apple a day keeps doctor away";
@@ -31,7 +31,7 @@ namespace TFIDFScore
             }
 
             // Print TFIDF
-            //Console.WriteLine("Similarity Matrix:");
+            //Console.WriteLine("TF-IDF Matrix:");
             for (int i = 0; i < docs.Count; i++)
             {
                 for (int j = 0; j < vocabulary.Count; j++)
@@ -69,7 +69,7 @@ namespace TFIDFScore
             }
 
             // Print similarity matrix
-            //Console.WriteLine("Similarity Matrix:");
+            Console.WriteLine("Similarity Matrix:");
             for (int i = 0; i < docs.Count; i++)
             {
                 for (int j = 0; j < docs.Count; j++)
@@ -92,7 +92,7 @@ namespace TFIDFScore
                 if(similarity > maxSimilarity)
                 {
                     maxSimilarity = similarity;
-                    closestDocIndex = i;
+                    closestDocIndex = i + 1; //4th document have the index 3
                 }
             }
 
@@ -100,6 +100,8 @@ namespace TFIDFScore
             Console.WriteLine(closestDocIndex.ToString());
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
+
+            return closestDocIndex;
         }
 
         private static List<string> getWordVocabulary(List<string> docs)

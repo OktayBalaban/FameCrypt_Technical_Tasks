@@ -40,7 +40,7 @@ namespace RobotProblem
 
             // Using int.MinValue + 1, int.MaxValue - 1 makes the application run for a long time. Therefore, a small set for landing is used.
 
-            //mRobotLocation = rand.Next(int.MinValue + 1, int.MaxValue - 1);
+            //mRobotLocation = rand.Next(int.MinValue / 2 + 1, int.MaxValue / 2 - 1);
             mRobotLocation = rand.Next(-1000, 1000);
 
             mEnvironment.AddLandingLocation(mRobotLocation);
