@@ -1,0 +1,40 @@
+Girilen sayı: 17
+17, asal bir sayıdır
+
+
+Girilen sayı: 19
+19, asal bir sayıdır
+
+
+Girilen sayı: 21
+21, asal bir sayı değildir
+
+
+Girilen sayı: 1
+1, asal bir sayı değildir
+
+
+Girilen sayı: 2
+2, asal bir sayıdır
+
+
+Girilen sayı: 1
+1, asal bir sayı değildir
+
+
+Girilen sayı: 57
+57, asal bir sayı değildir
+
+
+Girilen sayı: 16
+16, asal bir sayı değildir
+
+
+Girilen sayı: 90
+90, asal bir sayı değildir
+
+
+Girilen sayı: 25
+25, asal bir sayı değildir
+
+

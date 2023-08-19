@@ -1,0 +1,14 @@
+C:\Users\oktay\source\repos\MillerRabinTest\MillerRabinTest\bin\Debug\net6.0\MillerRabinTest.exe
+C:\Users\oktay\source\repos\MillerRabinTest\MillerRabinTest\bin\Debug\net6.0\MillerRabinTest.deps.json
+C:\Users\oktay\source\repos\MillerRabinTest\MillerRabinTest\bin\Debug\net6.0\MillerRabinTest.runtimeconfig.json
+C:\Users\oktay\source\repos\MillerRabinTest\MillerRabinTest\bin\Debug\net6.0\MillerRabinTest.dll
+C:\Users\oktay\source\repos\MillerRabinTest\MillerRabinTest\bin\Debug\net6.0\MillerRabinTest.pdb
+C:\Users\oktay\source\repos\MillerRabinTest\MillerRabinTest\obj\Debug\net6.0\MillerRabinTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oktay\source\repos\MillerRabinTest\MillerRabinTest\obj\Debug\net6.0\MillerRabinTest.AssemblyInfoInputs.cache
+C:\Users\oktay\source\repos\MillerRabinTest\MillerRabinTest\obj\Debug\net6.0\MillerRabinTest.AssemblyInfo.cs
+C:\Users\oktay\source\repos\MillerRabinTest\MillerRabinTest\obj\Debug\net6.0\MillerRabinTest.csproj.CoreCompileInputs.cache
+C:\Users\oktay\source\repos\MillerRabinTest\MillerRabinTest\obj\Debug\net6.0\MillerRabinTest.dll
+C:\Users\oktay\source\repos\MillerRabinTest\MillerRabinTest\obj\Debug\net6.0\refint\MillerRabinTest.dll
+C:\Users\oktay\source\repos\MillerRabinTest\MillerRabinTest\obj\Debug\net6.0\MillerRabinTest.pdb
+C:\Users\oktay\source\repos\MillerRabinTest\MillerRabinTest\obj\Debug\net6.0\MillerRabinTest.genruntimeconfig.cache
+C:\Users\oktay\source\repos\MillerRabinTest\MillerRabinTest\obj\Debug\net6.0\ref\MillerRabinTest.dll

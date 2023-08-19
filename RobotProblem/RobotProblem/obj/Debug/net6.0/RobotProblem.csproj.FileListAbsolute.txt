@@ -1,0 +1,14 @@
+C:\Users\oktay\source\repos\RobotProblem\RobotProblem\bin\Debug\net6.0\RobotProblem.exe
+C:\Users\oktay\source\repos\RobotProblem\RobotProblem\bin\Debug\net6.0\RobotProblem.deps.json
+C:\Users\oktay\source\repos\RobotProblem\RobotProblem\bin\Debug\net6.0\RobotProblem.runtimeconfig.json
+C:\Users\oktay\source\repos\RobotProblem\RobotProblem\bin\Debug\net6.0\RobotProblem.dll
+C:\Users\oktay\source\repos\RobotProblem\RobotProblem\bin\Debug\net6.0\RobotProblem.pdb
+C:\Users\oktay\source\repos\RobotProblem\RobotProblem\obj\Debug\net6.0\RobotProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oktay\source\repos\RobotProblem\RobotProblem\obj\Debug\net6.0\RobotProblem.AssemblyInfoInputs.cache
+C:\Users\oktay\source\repos\RobotProblem\RobotProblem\obj\Debug\net6.0\RobotProblem.AssemblyInfo.cs
+C:\Users\oktay\source\repos\RobotProblem\RobotProblem\obj\Debug\net6.0\RobotProblem.csproj.CoreCompileInputs.cache
+C:\Users\oktay\source\repos\RobotProblem\RobotProblem\obj\Debug\net6.0\RobotProblem.dll
+C:\Users\oktay\source\repos\RobotProblem\RobotProblem\obj\Debug\net6.0\refint\RobotProblem.dll
+C:\Users\oktay\source\repos\RobotProblem\RobotProblem\obj\Debug\net6.0\RobotProblem.pdb
+C:\Users\oktay\source\repos\RobotProblem\RobotProblem\obj\Debug\net6.0\RobotProblem.genruntimeconfig.cache
+C:\Users\oktay\source\repos\RobotProblem\RobotProblem\obj\Debug\net6.0\ref\RobotProblem.dll
